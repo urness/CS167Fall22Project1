@@ -4,7 +4,7 @@ For this project, you will use the scikit-learn library to conduct machine learn
 - Students will be able to create software which utilizes machine learning programming libraries in order to conduct machine-learning-based data analysis.
 - Students will be able to develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.
 
-## Project Description🚗:
+## Project Description:🚗
 For this project, you will be working with a dataset consisting of over twenty features of cars manufactured in 1985 [source](https://archive.ics.uci.edu/ml/datasets/automobile). You'll be using the data to tune and develop two different models:
 1. **Regression** predict the price.
 2. **Classification** predict the car body type (e.g. convertible, hardtop, hatchback, sedan, wagon)
@@ -39,6 +39,7 @@ You will create a Colab notebook that includes your code and results to document
 - A **weighted k Nearest Neighbors** model with a graph of at least 1 tuned parameter
 - A **Decision Tree** model with a graph of at least 1 tuned parameter
 - **Normalized data** (for k Nearest Neighbors and weighted k Nearest Neighbors) 
+- A **confusion matrix** (for final Classification model)
 
 ## Notes, Tips and Tricks
 
@@ -74,23 +75,22 @@ Use the template for building and testing a scikit-learn model. Start by doing t
 | **Code**  | **Points Awarded**  (1 point each) | **Notes** |
 | --------- | ------------------- | --------- |
 | normalization of data           |        |    |
-**Regression**
-| knn                             |        |    |
+| **Regression** knn              |        |    |
 | graph of knn parameter          |        |    | 
 | weighted knn                    |        |    |
 | graph of weighted knn parameter |        |    | 
 | decision tree                   |        |    |
 | graph of decision tree parameter|        |    | 
-**Classification**
-| knn                             |        |    |
+| **Classification** knn          |        |    |
 | graph of knn parameter          |        |    | 
 | weighted knn                    |        |    |
 | graph of weighted knn parameter |        |    | 
 | decision tree                   |        |    |
 | graph of decision tree parameter|        |    | 
-| <b>Total      |       /13 | </b>   |
+| confusion matrix                |        |    | 
+| <b>Total      |       /14 | </b>   |
 
 | **Written Portion**  | **Code Portion**   | **Total** |**Notes** |
 | --------- | ------------------- | --------- |--------- |
-|         /12  |                 /13    |        /25   |           |
+|         /12  |                 /14    |        /26   |           |
 
