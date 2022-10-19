@@ -4,7 +4,7 @@ For this project, you will use the scikit-learn library to conduct machine learn
 - Students will be able to create software which utilizes machine learning programming libraries in order to conduct machine-learning-based data analysis.
 - Students will be able to develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.
 
-## Project Description:
+## Project Description🚗:
 For this project, you will be working with a dataset consisting of over twenty features of cars manufactured in 1985 [source](https://archive.ics.uci.edu/ml/datasets/automobile). You'll be using the data to tune and develop two different models:
 1. **Regression** predict the price.
 2. **Classification** predict the car body type (e.g. convertible, hardtop, hatchback, sedan, wagon)
