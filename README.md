@@ -35,6 +35,8 @@ You will create a Colab notebook that includes your code and results to document
 9. **Fine Tuning**: Create graphs to help you identify the optimal values of parameters you wish to use. Utilize different train/test splits. Full credit for thorough testing.
 10. **Analysis**: What did you determine? What is your predictions for the 'competition testing set'.
 
+**Part 3: Conclusions**
+
 11. **Bumps in the Road**: What challenges did you encounter? How did you overcome these challenges? Did you have to adapt your strategy to account for these challenges? Why or why not?
 12. **Conclusions:** What insights/recommendations do you have? What did you find that was interesting? Which model was your best model, which models didn't work well? Why do you think this is? In general, I want a discussion of your experiment, the results, and what they mean.
 
@@ -90,5 +92,5 @@ Use the template for building and testing a scikit-learn model. Start by doing t
 
 | **Written Portion**  | **Code Portion**   | **Total** |**Notes** |
 | --------- | ------------------- | --------- |--------- |
-|         /12  |                 /8    |        /26   |           |
+|         /12  |                 /8    |        /20   |           |
 
