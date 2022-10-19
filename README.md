@@ -18,11 +18,15 @@ I have provided a skeleton of what I want your project to look like, but the res
 You will create a Colab notebook that includes your code and results to document your experiment. Most importantly, you will use text cells in the notebook to explain what you did, interpret the results, and make your recommendations. The written markdown portions must include the following things:
 1. **Name**: Include your name at the top of the notebook. 
 2. **Data Preparation**: Explain your data preparation. What did you have to do to get your data in shape for your experiments - creation of dummy variables, filling in missing values, etc.
+
+
 **Part 1: Regression**
 3. **Metrics**: Identify which metrics you will be using to test your model, and say why they are appropriate. Identify a baseline for your metrics - what would you expect to happen with this particular data if you always guessed the average or if you guessed randomly?
 4. **Initial Models**: Develop basic code for kNN, weighted kNN, and Decision Trees. Make some experiments here, including graphs to help you identify which algorithm and parameters may be best. 
 5. **Fine Tuning**: Create graphs to help you identify the optimal values of parameters you wish to use. Utilize different train/test splits. Full credit for thorough testing and documentation.
 6. **Analysis**: What did you determine? What did you notice? How did you identify which learning algorithms you will try and which important parameters you will tune for each one? What is your predictions for the 'competition testing set'.
+
+
 **Part 2: Classification**
 7. **Metrics**: Identify which metrics you will be using to test your model, and say why they are appropriate. Identify a baseline for your metrics - what would you expect to happen with this particular data if you always guessed the average or if you guessed randomly?
 8. **Initial Models**: Develop basic code for kNN and Decision Trees. Make some small experiments here. What do you notice? How did you identify which learning algorithms you will try and which important parameters you will tune for each one? 
@@ -73,22 +77,16 @@ Use the template for building and testing a scikit-learn model. Start by doing t
 | **Code**  | **Points Awarded**  (1 point each) | **Notes** |
 | --------- | ------------------- | --------- |
 | normalization of data           |        |    |
-| **Regression** knn              |        |    |
-| graph of knn parameter          |        |    | 
-| **Regression** weighted knn                    |        |    |
-| graph of weighted knn parameter |        |    | 
-| **Regression** decision tree                   |        |    |
-| graph of decision tree parameter|        |    | 
-| **Classification** knn          |        |    |
-| graph of knn parameter          |        |    | 
-| **Classification** weighted knn                    |        |    |
-| graph of weighted knn parameter |        |    | 
-| **Classification** decision tree                   |        |    |
-| graph of decision tree parameter|        |    | 
+| **Regression** knn + graph             |        |    |
+| **Regression** weighted knn + graph                   |        |    |
+| **Regression** decision tree + graph                  |        |    |
+| **Classification** knn  + graph        |        |    |
+| **Classification** weighted knn  + graph                  |        |    |
+| **Classification** decision tree + graph                  |        |    |
 | confusion matrix                |        |    | 
-| <b>Total      |       /14 | </b>   |
+| <b>Total      |       /8 | </b>   |
 
 | **Written Portion**  | **Code Portion**   | **Total** |**Notes** |
 | --------- | ------------------- | --------- |--------- |
-|         /12  |                 /14    |        /26   |           |
+|         /12  |                 /8    |        /26   |           |
 
