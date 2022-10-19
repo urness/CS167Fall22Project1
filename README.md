@@ -21,6 +21,7 @@ You will create a Colab notebook that includes your code and results to document
 
 
 **Part 1: Regression**
+
 3. **Metrics**: Identify which metrics you will be using to test your model, and say why they are appropriate. Identify a baseline for your metrics - what would you expect to happen with this particular data if you always guessed the average or if you guessed randomly?
 4. **Initial Models**: Develop basic code for kNN, weighted kNN, and Decision Trees. Make some experiments here, including graphs to help you identify which algorithm and parameters may be best. 
 5. **Fine Tuning**: Create graphs to help you identify the optimal values of parameters you wish to use. Utilize different train/test splits. Full credit for thorough testing and documentation.
@@ -28,6 +29,7 @@ You will create a Colab notebook that includes your code and results to document
 
 
 **Part 2: Classification**
+
 7. **Metrics**: Identify which metrics you will be using to test your model, and say why they are appropriate. Identify a baseline for your metrics - what would you expect to happen with this particular data if you always guessed the average or if you guessed randomly?
 8. **Initial Models**: Develop basic code for kNN and Decision Trees. Make some small experiments here. What do you notice? How did you identify which learning algorithms you will try and which important parameters you will tune for each one? 
 9. **Fine Tuning**: Create graphs to help you identify the optimal values of parameters you wish to use. Utilize different train/test splits. Full credit for thorough testing.
