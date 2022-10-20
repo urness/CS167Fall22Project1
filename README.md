@@ -53,7 +53,7 @@ You will create a Colab notebook that includes your code and results to document
 Tuning parameters means that you try your model with different values for that parameter and record how well the resulting model performs on the test set 📈. This is what you did in Notebook 3 when you tried different k, graphed them and found the value of k that resulted in the best model. You found the best k for k-NN, so that means you tuned k. For this project, you are strongly encouraged to try tuning more than one parameter for each model. You should make sure to pick a parameter that actually has an important effect on your model/data, and explain why you chose the parameters you chose in your text description.
 
 ### Where should I start?
-Start with the example .ipynb file. Look at the different datasets and decide on the one you will focus on. Next, begin answering the questions that you can answer before you even start coding.
+Start with the example .ipynb file. Next, begin answering the questions that you can answer before you even start coding.
 
 Use the template for building and testing a scikit-learn model. Start by doing the following:
 - Change that example code to work with your new data
